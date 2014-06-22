@@ -1,0 +1,21 @@
+options:
+    pop3_user: 'YourEmail@address.com'
+    pop3_pass: 'yourpassword'
+    pop3_host: 'pop.gmail.com'
+    pop3_port: 995
+    pop3_ssl: 1
+    smtp_user: 'YourEmail@address.com'
+    smtp_pass: 'yourpassword'
+    smtp_host: 'smtp.gmail.com'
+    smtp_port: 465
+    smtp_ssl: 1
+    uidl_log: 'uidls.txt'
+    firstpass: 1
+subjects:
+    - hello
+    - hi
+messages:
+    - versace
+    - pearls fly
+    - operandi vintage
+    - turtlenecks

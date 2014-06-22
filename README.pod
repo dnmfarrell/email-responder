@@ -1,0 +1,21 @@
+=head1 Email-Responder
+
+A Perl script that reads from a POP3 mailbox and responds to every email. It logs the uids of the emails it has responded to, to prevent repeat emails.
+
+=head2 Instructions
+
+1. Download solution
+
+2. Edit config.yml - set email address, password, and list of subjects and messages to be sent. The subjects / messages will be randomly picked from.
+
+3. Run the script;
+
+    $ perl emailer_sender.pl
+
+=cut
+
+=head2 License
+
+Licensed under the Artistic license 2.0. See LICENSE.txt
+
+=cut
